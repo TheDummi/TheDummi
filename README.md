@@ -8,8 +8,9 @@
 
 ### My totally not impressive stats
 [![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi)](https://github.com/TheDummi/github-readme-stats)<br>
-[![Dummi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi)](https://github-readme-stats.vercel.app/api/top-langs/github-readme-stats)
-
+[![Dummi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi)](https://github-readme-stats.vercel.app/api/top-langs/github-readme-stats)<br>
+[![Dummi](https://github-readme-stats.vercel.app/api/pin/?username=TheDummi)](https://github-readme-stats.vercel.app/api/pin/?username=TheDummi)<br>
+[![Dummi](https://github-readme-stats.vercel.app/api/wakatime/?username=TheDummi)](https://github-readme-stats.vercel.app/api/wakatime/?username=TheDummi)
 ### <p align="center">Contact</p>
  I have a Discord Server called [Comdummity](https://discord.gg/tWFDYBj9ZC) with an amazing community, feel free to join!  
  Discord: `Dummi#3085`  
