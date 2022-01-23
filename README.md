@@ -6,6 +6,9 @@
 ### <p align="center">Me</p>
  I'm fairly new to coding and don't really know a lot, though I am trying to learn as much as I can! I'm also employed at [Portal Development](https://discord.gg/GPvsMz4YVb) and am currently developing Channel Manager. My favourite thing to do is by far discord bot developing.
 
+### My totally not impressive stats
+[![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi)](https://github.com/TheDummi/github-readme-stats)
+
 ### <p align="center">Contact</p>
  I have a Discord Server called [Comdummity](https://discord.gg/tWFDYBj9ZC) with an amazing community, feel free to join!  
  Discord: `Dummi#3085`  
