@@ -20,8 +20,8 @@
  [![](https://img.shields.io/youtube/channel/subscribers/UCXKevUeuFcX7wdB_Li7KMWg?color=red&label=TheDummi&logo=youtube&logoColor=red&style=flat-square)]()  
 
 ### <p align="center">Languages</p>
-  - [![JavaScript javascript badge]()]()  
-  - [![Python python badge]()]()  
+  - JavaScript
+  - Python
   - Arduino  
   - HTML  
   - CSS  
