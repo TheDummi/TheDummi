@@ -20,9 +20,8 @@
  [![](https://img.shields.io/youtube/channel/subscribers/UCXKevUeuFcX7wdB_Li7KMWg?color=red&label=TheDummi&logo=youtube&logoColor=red&style=flat-square)]()  
 
 ### <p align="center">Languages</p>
-  - JavaScript
-  - Python
-  - Arduino  
-  - HTML  
-  - CSS  
-  - TypeScript  
+  [![JavaScript](https://img.shields.io/badge/javascript-fcdc00.svg?&logo=javascript&logoColor=black&style=flat-square)]()
+  [![Python](https://img.shields.io/badge/python-ffd448.svg?&style=for-the-badge&logo=python&logoColor=black)](https://python.org)]()
+[![HTML](https://img.shields.io/badge/html-green.svg?&style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/css-magenta.svg?&style=for-the-badge&logo=css3&logoColor=white)]()
+[![Arduino](https://img.shields.io/github/followers/TheDummi?labelColor=turquoise&label=arduino&logo=arduino&style=flat-square)]()
