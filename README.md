@@ -15,7 +15,7 @@
  Instagram: `the__dummi`  
  
 ### <p align="center">Languages</p>
-  - JavaScript (prefered language)<br>
+  - [JavaScript JavaScript Badge]<br>
   - Python (not a lot but the basics)<br>
   - Arduino<br>
   - HTML<br>
