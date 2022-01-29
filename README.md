@@ -10,6 +10,7 @@
 
 ### <p align="center">My totally not impressive stats</p>
 ![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi&show_icons=true&theme=synthwave)  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&theme=synthwave)
  
 ### <p align="center">Contact</p>
 
