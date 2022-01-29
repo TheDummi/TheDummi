@@ -15,7 +15,7 @@
 
  [![Discord Community](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord)](https://discord.gg/tWFDYBj9ZC)  
  ![Discord](https://img.shields.io/twitter/follow/20dummi05?color=red&label=Dummi%233085&logo=discord&style=flat-square)  
- ![Twitter](https://img.shields.io/twitter/follow/20dummi05?color=red&logo=twitter&style=flat-square)]  
+ ![Twitter](https://img.shields.io/twitter/follow/20dummi05?color=red&logo=twitter&style=flat-square)  
  ![Instagram](https://img.shields.io/twitter/follow/20dummi05?color=red&label=the__dummi&logo=instagram&style=flat-square)  
  ![Playstation](https://img.shields.io/twitter/follow/20dummi05?color=red&label=r20dummi05&logo=playstation&style=flat-square)  
  ![Spotify](https://img.shields.io/twitter/follow/20dummi05?color=red&label=TheDummi&logo=spotify&style=flat-square)  
