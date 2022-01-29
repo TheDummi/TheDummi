@@ -8,7 +8,7 @@
 
 ### <p align="center">My totally not impressive stats</p>
 [![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi&show_icons=true&theme=synthwave)](https://github.com/TheDummi/github-readme-stats)<br>
-[![Dummi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&langs_count=5&theme=synthwave)](https://github-readme-stats.vercel.app/api/top-langs/github-readme-stats)
+[![Dummi's most used languages](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord&style=for-the-badge)]()
 ### <p align="center">Contact</p>
  [![](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord)](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord) 
  [![](https://img.shields.io/badge/Discord-Dummi%233085-red)](https://img.shields.io/badge/Discord-Dummi%233085-red) 
