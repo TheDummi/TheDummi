@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&theme=synthwave)]()
 ### <p align="center">Contact</p>
 
-<div align="center">
+<div align="center"> 
  [![](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord)](https://discord.gg/tWFDYBj9ZC)
  [![](https://img.shields.io/twitter/follow/20dummi05?color=red&label=Dummi%233085&logo=discord&style=flat-square)]()
  [![](https://img.shields.io/twitter/follow/20dummi05?color=red&logo=twitter&style=flat-square)]()
