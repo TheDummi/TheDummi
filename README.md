@@ -11,7 +11,7 @@
 [![Dummi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&langs_count=5&theme=synthwave)](https://github-readme-stats.vercel.app/api/top-langs/github-readme-stats)
 ### <p align="center">Contact</p>
  I have a Discord Server called [Comdummity](https://discord.gg/tWFDYBj9ZC) with an amazing community, feel free to join!  
- Discord: `Dummi#3085`  
+ [![](https://img.shields.io/badge/Discord-Dummi%233085-red)](https://img.shields.io/badge/Discord-Dummi%233085-red) 
  Instagram: `the__dummi`  
  
 ### <p align="center">Languages</p>
