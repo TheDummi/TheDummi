@@ -22,7 +22,7 @@
  [![](https://img.shields.io/youtube/channel/subscribers/UCXKevUeuFcX7wdB_Li7KMWg?color=red&label=TheDummi&logo=youtube&logoColor=red&style=flat-square)]()  
 
 ### <p align="center">Languages</p>
-  [![JavaScript](https://img.shields.io/badge/javascript-fcdc00.svg?&logo=javascript&logoColor=black&style=flat-square)](https://javascript.com)
+  [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://javascript.com)
   [![typescript](https://img.shields.io/badge/typescript-3178c6.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
   [![Python](https://img.shields.io/badge/python-ffd448.svg?&style=for-the-badge&logo=python&logoColor=black)](https://python.org)
   [![HTML](https://img.shields.io/badge/html-green.svg?&style=for-the-badge&logo=html5&logoColor=white)]()
