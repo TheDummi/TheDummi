@@ -10,7 +10,7 @@
 [![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi&show_icons=true&theme=synthwave)](https://github.com/TheDummi/github-readme-stats)<br>
 [![Dummi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&langs_count=5&theme=synthwave)](https://github-readme-stats.vercel.app/api/top-langs/github-readme-stats)
 ### <p align="center">Contact</p>
- I have a Discord Server called [Comdummity](https://discord.gg/tWFDYBj9ZC) with an amazing community, feel free to join!  
+ [![](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord)](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord) 
  [![](https://img.shields.io/badge/Discord-Dummi%233085-red)](https://img.shields.io/badge/Discord-Dummi%233085-red) 
  Instagram: `the__dummi`  
  
