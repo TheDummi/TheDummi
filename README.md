@@ -10,13 +10,14 @@
 [![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi&show_icons=true&theme=synthwave)]()<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&theme=synthwave)]()
 ### <p align="center">Contact</p>
- [![](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord&style=for-the-badge)]() 
- [![](https://img.shields.io/badge/Discord-Dummi%233085-red&style=for-the-badge)]() 
+ [![](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord)](https://discord.gg/tWFDYBj9ZC)  
+ [![](https://img.shields.io/badge/Discord-Dummi%233085-red&style=for-the-badge)]()  
+ [![](https://img.shields.io/twitter/follow/20dummi05?color=red&style=plastic)]()  
  Instagram: `the__dummi`  
  
 ### <p align="center">Languages</p>
-  - [![JavaScript JavaScript Badge](https://google.com)]<br>
-  - Python (not a lot but the basics)<br>
+  - [![JavaScript JavaScript Badge](https://google.com)]()<br>
+  - Python<br>
   - Arduino<br>
   - HTML<br>
   - CSS<br>
