@@ -11,19 +11,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&theme=synthwave)]()
 ### <p align="center">Contact</p>
 
-<div align="center"> 
- [![](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord)](https://discord.gg/tWFDYBj9ZC)
- [![](https://img.shields.io/twitter/follow/20dummi05?color=red&label=Dummi%233085&logo=discord&style=flat-square)]()
- [![](https://img.shields.io/twitter/follow/20dummi05?color=red&logo=twitter&style=flat-square)]()
- [![](https://img.shields.io/twitter/follow/20dummi05?color=red&label=the__dummi&logo=instagram&style=flat-square)]()
- [![](https://img.shields.io/twitter/follow/20dummi05?color=red&label=r20dummi05&logo=playstation&style=flat-square)]()
- [![](https://img.shields.io/twitter/follow/20dummi05?color=red&label=TheDummi&logo=spotify&style=flat-square)]()
- [![](https://img.shields.io/youtube/channel/subscribers/UCXKevUeuFcX7wdB_Li7KMWg?color=red&label=TheDummi&logo=youtube&logoColor=red&style=flat-square)]()
- </div>
+ [![](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord)](https://discord.gg/tWFDYBj9ZC)  
+ [![](https://img.shields.io/twitter/follow/20dummi05?color=red&label=Dummi%233085&logo=discord&style=flat-square)]()  
+ [![](https://img.shields.io/twitter/follow/20dummi05?color=red&logo=twitter&style=flat-square)]()  
+ [![](https://img.shields.io/twitter/follow/20dummi05?color=red&label=the__dummi&logo=instagram&style=flat-square)]()  
+ [![](https://img.shields.io/twitter/follow/20dummi05?color=red&label=r20dummi05&logo=playstation&style=flat-square)]()  
+ [![](https://img.shields.io/twitter/follow/20dummi05?color=red&label=TheDummi&logo=spotify&style=flat-square)]()  
+ [![](https://img.shields.io/youtube/channel/subscribers/UCXKevUeuFcX7wdB_Li7KMWg?color=red&label=TheDummi&logo=youtube&logoColor=red&style=flat-square)]()  
 
 ### <p align="center">Languages</p>
-  - [![JavaScript javascript badge]()]()<br>
-  - [![Python python badge]()]()<br>
-  - Arduino<br>
-  - HTML<br>
-  - CSS<br>
+  - [![JavaScript javascript badge]()]()  
+  - [![Python python badge]()]()  
+  - Arduino  
+  - HTML  
+  - CSS  
+  - TypeScript  
