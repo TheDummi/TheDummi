@@ -7,11 +7,11 @@
  I'm fairly new to coding and don't really know a lot, though I am trying to learn as much as I can! I'm also employed at [Portal Development](https://discord.gg/GPvsMz4YVb) and am currently developing Channel Manager. My favourite thing to do is by far discord bot developing.
 
 ### <p align="center">My totally not impressive stats</p>
-[![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi&show_icons=true&theme=synthwave)](https://github.com/TheDummi/github-readme-stats)<br>
-[![Dummi's most used languages](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord&style=for-the-badge)]()
+[![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi&show_icons=true&theme=synthwave)]()<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&theme=synthwave)]()
 ### <p align="center">Contact</p>
- [![](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord)](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord) 
- [![](https://img.shields.io/badge/Discord-Dummi%233085-red)](https://img.shields.io/badge/Discord-Dummi%233085-red) 
+ [![](https://img.shields.io/discord/689260593080696833?color=red&label=Comdummity&logo=discord&style=for-the-badge)]() 
+ [![](https://img.shields.io/badge/Discord-Dummi%233085-red&style=for-the-badge)]() 
  Instagram: `the__dummi`  
  
 ### <p align="center">Languages</p>
