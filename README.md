@@ -1,8 +1,6 @@
 ![avril lavigne](https://www.morecore.de/wp-content/uploads/avril-lavigne-love-sux-cover-artwork-01-2022.jpg)
 
-<a href="https://top.gg/bot/881678826906730547">
-  <img src="https://top.gg/api/widget/881678826906730547.svg">
-</a>
+[![Discord Bots](https://top.gg/api/widget/881678826906730547.svg)(https://top.gg/bot/881678826906730547)
 
 <div align="center">
 
