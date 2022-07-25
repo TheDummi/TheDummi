@@ -8,7 +8,7 @@
 
 ## <p align="center">About</p>
 ### <p align="center">Me</p>
- I'm fairly new to coding and don't really know a lot, though I am trying to learn as much as I can! I'm also employed at [Portal Development](https://discord.gg/GPvsMz4YVb) and am currently developing Channel Manager. My favourite thing to do is by far discord bot developing.
+I'm fairly new to coding and don't really know a lot, though I am trying to learn as much as I can! I'm also employed at [Portal Development](https://discord.gg/GPvsMz4YVb) and I'm currently developing Channel Manager. My favourite thing to do is by far discord bot developing.
 
 ### <p align="center">My totally not impressive stats</p>
 ![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi&show_icons=true&theme=synthwave)  
