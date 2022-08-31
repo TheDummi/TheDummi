@@ -7,6 +7,7 @@ I'm Dummi, I mostly specify in backend, most of my projects are also Discord rel
 <div align="center">
   <details>
     <summary>Discord Bots Developed by me</summary>
+    
       [![Discord Bots](https://top.gg/api/widget/881678826906730547.svg)](https://top.gg/bot/881678826906730547)
       [![Discord Bots](https://top.gg/api/widget/886804747984703509.svg)](https://top.gg/bot/886804747984703509)
       [![Discord Bots](https://top.gg/api/widget/952610511323824168.svg)](https://top.gg/bot/952610511323824168)
@@ -16,8 +17,10 @@ I'm Dummi, I mostly specify in backend, most of my projects are also Discord rel
 <div align="center"> 
   <details>
     <summary>My Github Stats</summary>
+
       ![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi&show_icons=true&theme=synthwave)
       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&langs_count=10&theme=synthwave&layout=compact)
+
   </details>
 </div>
 <div align="center">
