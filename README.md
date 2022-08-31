@@ -4,6 +4,8 @@
 
 I'm Dummi, I mostly specify in backend, most of my projects are also Discord related...I'm also employed at [Portal Development](https://discord.gg/GPvsMz4YVb).
 
+## About my projects
+
 <details><summary>Discord Bots Developed by me</summary>
 
 <div align="center">
@@ -26,12 +28,12 @@ I'm Dummi, I mostly specify in backend, most of my projects are also Discord rel
 
 <div align="center">
 
-![Discord](https://img.shields.io/discord/689260593080696833?color=red&label=The%20Last%20legacy%20Players&logo=PS3%20community&style=flat-square)  
-![Discord](https://img.shields.io/twitter/follow/20dummi05?color=red&label=Dummi%233085&logo=discord&style=flat-square)  
-![Twitter](https://img.shields.io/twitter/follow/20dummi05?color=red&logo=twitter&style=flat-square)  
-![Instagram](https://img.shields.io/twitter/follow/20dummi05?color=red&label=the__dummi&logo=instagram&style=flat-square)  
-![Playstation](https://img.shields.io/twitter/follow/20dummi05?color=red&label=TheDxmmi&logo=playstation&style=flat-square)  
-![Spotify](https://img.shields.io/twitter/follow/20dummi05?color=red&label=TheDummi&logo=spotify&style=flat-square)  
+![Discord](https://img.shields.io/discord/689260593080696833?color=red&label=The%20Last%20legacy%20Players&logo=PS3%20community&style=flat-square)
+![Discord](https://img.shields.io/twitter/follow/20dummi05?color=red&label=Dummi%233085&logo=discord&style=flat-square)
+![Twitter](https://img.shields.io/twitter/follow/20dummi05?color=red&logo=twitter&style=flat-square)
+![Instagram](https://img.shields.io/twitter/follow/20dummi05?color=red&label=the__dummi&logo=instagram&style=flat-square)
+![Playstation](https://img.shields.io/twitter/follow/20dummi05?color=red&label=TheDxmmi&logo=playstation&style=flat-square)
+![Spotify](https://img.shields.io/twitter/follow/20dummi05?color=red&label=TheDummi&logo=spotify&style=flat-square)
 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UCXKevUeuFcX7wdB_Li7KMWg?color=red&label=TheDummi&logo=youtube&logoColor=red&style=flat-square)
 
 ### <p align="center">Languages</p>
