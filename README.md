@@ -16,7 +16,7 @@ I'm fairly new to coding and don't really know a lot, though I am trying to lear
  
 ### <p align="center">Contact</p>
 
- ![Discord](https://img.shields.io/discord/689260593080696833?color=red&label=The%20Last%20legacy%20Players&logo=PS3%20community&style=plastic)
+ ![Discord](https://img.shields.io/discord/689260593080696833?color=red&label=The%20Last%20legacy%20Players&logo=PS3%20community&style=flat-square)  
  ![Discord](https://img.shields.io/twitter/follow/20dummi05?color=red&label=Dummi%233085&logo=discord&style=flat-square)  
  ![Twitter](https://img.shields.io/twitter/follow/20dummi05?color=red&logo=twitter&style=flat-square)  
  ![Instagram](https://img.shields.io/twitter/follow/20dummi05?color=red&label=the__dummi&logo=instagram&style=flat-square)  
