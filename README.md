@@ -1,4 +1,3 @@
-![avril lavigne](https://www.morecore.de/wp-content/uploads/avril-lavigne-love-sux-cover-artwork-01-2022.jpg)
 <div align="center">
 <details><summary>Discord Bots Developed by me</summary>
 
@@ -18,7 +17,7 @@ I'm fairly new to coding and don't really know a lot, though I am trying to lear
 
 ### <p align="center">My totally not impressive stats</p>
 ![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi&show_icons=true&theme=synthwave)  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&langs_count=10&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&langs_count=10&theme=synthwave)
  
 ### <p align="center">Contact</p>
 
