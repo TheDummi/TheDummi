@@ -20,8 +20,8 @@ I'm Dummi, I mostly specify in backend, most of my projects are also Discord rel
 <details><summary>My Github Stats</summary>
 <div align="center">
 
-![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=TheDummi&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&langs_count=10&theme=synthwave&layout=compact)
+![Dummi's github stats](https://github-readme-stats.vercel.app/api?username=heDummi&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heDummi&langs_count=10&theme=synthwave&layout=compact)
 
 </div>
 </details>
