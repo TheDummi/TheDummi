@@ -1,0 +1,11 @@
+{
+	"name": "thedummi",
+	"version": "1.0.0",
+	"description": "## About me",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs"
+	},
+	"author": "Dummi",
+	"license": "MIT"
+}

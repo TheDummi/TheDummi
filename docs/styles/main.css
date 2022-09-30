@@ -1,0 +1,45 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+body {
+	transform: translate(-50%, -50%);
+	user-select: none;
+	color: white;
+	background: repeating-linear-gradient(
+		-45deg,
+		red 0%,
+		yellow 7.14%,
+		limegreen 14.28%,
+		cyan 21.4%,
+		blue 28.56%,
+		magenta 35.7%,
+		violet 42.84%,
+		red 50%
+	);
+	background-size: 600vw 600vw;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	animation: slide 30s linear infinite forwards;
+}
+
+@keyframes slide {
+	0% {
+		background-position-x: 0%;
+	}
+	100% {
+		background-position-x: 600vw;
+	}
+}
+
+.component {
+	background-color: rgba(255, 255, 255, 0.09);
+	top: 50%;
+	left: 50%;
+	color: red;
+}
