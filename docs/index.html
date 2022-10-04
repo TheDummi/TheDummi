@@ -8,10 +8,21 @@
 		<title>TheDummi</title>
 		<link rel="icon" type="image/x-icon" href="icons/icon.png" />
 		<link rel="stylesheet" href="styles/main.css" />
-		<script src="scripts/style.js" defer></script>
+		<script type="module" src="scripts/main.js" defer></script>
 	</head>
 
 	<body>
-		<div class="component">hello world</div>
+		<div class="wrapper horizontal">
+			<div class="top-bar">hello world</div>
+			<div class="top-bar">bye world</div>
+		</div>
+		<div class="banner">
+			<img
+				src="https://card.psnprofiles.com/2/TheDxmmi.png"
+				border="0"
+				class="banner"
+			/>
+		</div>
+		<div class="wrapper vertical" id="contents"></div>
 	</body>
 </html>

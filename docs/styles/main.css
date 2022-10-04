@@ -1,6 +1,7 @@
 * {
 	margin: 0;
 	padding: 0;
+	font-family: Cascadia Code;
 }
 *::after,
 *::before {
@@ -8,9 +9,6 @@
 }
 
 body {
-	transform: translate(-50%, -50%);
-	user-select: none;
-	color: white;
 	background: repeating-linear-gradient(
 		-45deg,
 		red 0%,
@@ -23,8 +21,6 @@ body {
 		red 50%
 	);
 	background-size: 600vw 600vw;
-	-webkit-text-fill-color: transparent;
-	background-clip: text;
 	animation: slide 30s linear infinite forwards;
 }
 
@@ -33,13 +29,43 @@ body {
 		background-position-x: 0%;
 	}
 	100% {
-		background-position-x: 600vw;
+		background-position-x: 100%;
 	}
 }
 
+.banner {
+	color: white;
+	width: 100%;
+	height: auto;
+}
+
+.wrapper {
+	display: flex;
+}
+
+.wrapper.vertical {
+	flex-direction: column;
+	padding: 10px;
+	gap: 3px;
+}
+
+.wrapper.horizontal {
+	position: sticky;
+	align-items: baseline;
+	gap: 1px;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 1);
+	color: white;
+}
+
 .component {
-	background-color: rgba(255, 255, 255, 0.09);
-	top: 50%;
-	left: 50%;
-	color: red;
+	position: flex;
+	border: 2px solid black;
+	border-radius: 0.5rem;
+	padding: 10;
+}
+
+.link {
+	background-color: rgba(0, 0, 0, 0.6);
+	color: white;
 }

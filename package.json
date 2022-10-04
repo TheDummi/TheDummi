@@ -7,5 +7,9 @@
 		"doc": "docs"
 	},
 	"author": "Dummi",
-	"license": "MIT"
+	"type": "module",
+	"license": "MIT",
+	"dependencies": {
+		"got": "^12.5.1"
+	}
 }
