@@ -52,10 +52,11 @@ body {
 .wrapper.horizontal {
 	position: sticky;
 	align-items: baseline;
-	gap: 1px;
 	width: 100%;
-	background-color: rgba(0, 0, 0, 1);
+	background-color: rgba(0, 0, 0, 0.8);
 	color: white;
+	padding: 0.75rem;
+	gap: 2rem;
 }
 
 .component {
@@ -65,7 +66,54 @@ body {
 	padding: 10;
 }
 
+.dropdown {
+	position: relative;
+}
+
+.dropdown-menu {
+	position: absolute;
+	left: 0;
+	top: calc(100% + 0.25rem);
+	background: rgba(0, 0, 0, 0.7);
+	padding: 0.75rem;
+	border-radius: 0.25rem;
+	box-shadow: 0, 2px, 5px, 0, rgba(0, 0, 0, 0.1);
+	opacity: 0;
+	pointer-events: none;
+	transform: translateY(-10px);
+	transition: opacity 150ms ease-in-out, transform 150ms ease-in-out;
+}
+
+.show {
+	opacity: 1;
+	transform: rotateY(0);
+	pointer-events: auto;
+}
+
 .link {
-	background-color: rgba(0, 0, 0, 0.6);
 	color: white;
+	text-decoration: none;
+}
+
+.link:hover {
+	background-color: black;
+	border-radius: 0.5rem;
+	padding: 0.5rem;
+}
+
+.info {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+}
+
+.button {
+	background-color: inherit;
+	border: none;
+	text-decoration: none;
+	font-size: inherit;
+	color: auto;
+	padding: 0;
+	cursor: pointer;
+	font-family: inherit;
 }

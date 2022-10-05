@@ -1,27 +1,42 @@
 import links from './links.js';
 
-export function loadLinks() {
-    const wrap = document.getElementById('contents');
+export function loadBarLinks() {
+    const bar = document.getElementById('top-bar');
 
-    for (const cat of Object.values(links)) {
+    for (const [key, val] of Object.entries(links)) {
+        const div = document.createElement('div');
 
-        const wrapper = document.createElement('div')
+        div.classList.add('dropdown');
 
-        wrapper.classList.add('wrapper.vertical')
-        for (const value of cat) {
+        const button = document.createElement('button');
+
+        button.innerText = `My ${key}`;
+
+        button.classList.add("button");
+
+        button.classList.add("link");
+
+        div.appendChild(button);
+
+        const menu = document.createElement('div');
+
+        menu.classList.add('dropdown-menu');
+
+        for (const v of val) {
             const anchor = document.createElement('a');
 
-            anchor.innerText = value.type;
-
-            anchor.href = value.url;
-
             anchor.classList.add('link');
+            anchor.classList.add('info');
 
-            anchor.classList.add('component');
+            anchor.innerText = v.name;
 
-            wrapper.appendChild(anchor);
+            anchor.href = v.url
+
+            menu.appendChild(anchor);
         }
 
-        wrap.appendChild(wrapper);
+        div.appendChild(menu);
+
+        bar.appendChild(div)
     }
 }
