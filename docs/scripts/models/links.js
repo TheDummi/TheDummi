@@ -14,6 +14,9 @@ export const sites = [{
 }, {
     url: "https://thedummi.github.io/supercell-api-scraper/main.html",
     name: "Supercell-api-scraper"
+}, {
+    url: "https://thedummi.github.io/calculator",
+    name: "Calculator"
 }];
 
 export const packages = [{
@@ -22,6 +25,9 @@ export const packages = [{
 }]
 
 export const games = [{
+    url: "https://thedummi.github.io/snake",
+    name: "Snake"
+}, {
     url: "#",
     name: "Pong"
 }]
