@@ -1,5 +1,10 @@
 # TheDummi
 
+<div>
+<a href="https://wakatime.com/@Dummi" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dummi&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</div>
+
 ## About me
 
 I'm Dummi, I mostly specify in backend, most of my projects are also Discord related...I'm also employed at [Portal Development](https://discord.gg/GPvsMz4YVb).
