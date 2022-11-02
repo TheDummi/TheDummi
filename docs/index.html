@@ -1,25 +1,100 @@
 <!DOCTYPE html>
-
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>TheDummi</title>
-		<link rel="icon" type="image/x-icon" href="icons/icon.png" />
+		<title>Dummi</title>
+		<link rel="icon" type="image/x-icon" href="icons/logo.png" />
 		<link rel="stylesheet" href="styles/main.css" />
-		<script type="module" src="scripts/main.js" defer></script>
+		<script src="scripts/script.js" defer type="module"></script>
 	</head>
-
 	<body>
-		<div class="wrapper horizontal" id="top-bar"></div>
-		<div class="banner">
-			<img
-				src="https://card.psnprofiles.com/2/TheDxmmi.png"
-				border="0"
-				class="banner"
-			/>
+		<header class="header">
+			<button class="menu-icon-btn" data-menu-icon-btn>
+				<svg
+					viewBox="0 0 24 24"
+					preserveAspectRatio="xMidYMid meet"
+					focusable="false"
+					class="menu-icon"
+				>
+					<g><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path></g>
+				</svg>
+			</button>
+		</header>
+		<div class="container">
+			<aside class="sidebar" data-sidebar>
+				<div class="top-sidebar">
+					<a href="#" class="channel-logo">
+						<img src="./icons/logo.png" />
+					</a>
+					<div class="hidden-sidebar your-channel">Dummi</div>
+				</div>
+				<div class="middle-sidebar">
+					<ul class="sidebar-list" id="sidebar">
+						<li class="sidebar-list-item active" id="welcome">
+							<a href="#" class="sidebar-link">
+								<svg
+									class="sidebar-icon"
+									viewBox="0 0 24 24"
+									preserveAspectRatio="xMidYMid meet"
+									focusable="false"
+								>
+									<g>
+										<path
+											d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"
+										></path>
+									</g>
+								</svg>
+								<div class="hidden-sidebar">Welcome</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="bottom-sidebar">
+					<ul class="sidebar-list">
+						<li class="sidebar-list-item">
+							<a href="#" class="sidebar-link">
+								<svg
+									viewBox="0 0 24 24"
+									preserveAspectRatio="xMidYMid meet"
+									focusable="false"
+									class="sidebar-icon"
+								>
+									<g>
+										<path
+											d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-7 12h-2v-2h2v2zm0-4h-2V6h2v4z"
+										></path>
+									</g>
+								</svg>
+								<div class="hidden-sidebar">Send Feedback</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</aside>
+			<main class="content" id="content">
+				<div class="component">
+					<center>
+						<h1 class="welcome">Dummi</h1>
+						<h3>
+							<p>
+								Welcome to my website!
+								<br />
+								<br />
+								You can find anything related to me here!
+								<br />
+								<br />
+							</p>
+						</h3>
+						<div class="banner">
+							<a href="https://psnprofiles.com/TheDxmmi"
+								><img src="https://card.psnprofiles.com/2/TheDxmmi.png"
+							/></a>
+						</div>
+					</center>
+				</div>
+			</main>
 		</div>
-		<div class="wrapper vertical" id="contents"></div>
 	</body>
 </html>
