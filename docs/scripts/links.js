@@ -50,26 +50,28 @@ export const games = [{
     name: "Snake",
     description: "A simple take on the popular retro game Snake.",
     url: "https://thedummi.github.io/snake",
-
 }, {
     name: "Pong",
-    description: "A simple take on the popular retro game Pong. [COMING SOON]",
+    description: "A simple take on the popular retro game Pong.",
     url: "https://thedummi.github.io/pong",
-
+}, {
+    name: "2048",
+    description: "A simple take on the math game 2048.",
+    url: "https://thedummi.github.io/2048"
 }]
 
 export const bots = [{
     name: "Metamorphosis",
     description: "Metamorphosis is a feature rich translation bot. Developed by me under Portal Development you can invite it down below.",
-    urls: [{ name: "Invite via Portal Development", url: "#" }, { name: "Invite via Top.gg", url: "#" }],
+    urls: [{ name: "Invite via Portal Development", url: "https://portaldevelopment.net/bots/meta" }, { name: "Invite via Top.gg", url: "https://top.gg/bot/881678826906730547" }],
 }, {
     name: "Supercell Utilities",
     description: "Supercell Utilities is a feature rich bot that makes use of my supercell-api-scraper to provide information. Developed by me under Portal Development you can invite it down below.",
-    urls: [{ name: "Invite via Portal Development", url: "#" }, { name: "Invite via Top.gg", url: "#" }],
+    urls: [{ name: "Invite via Portal Development", url: "https://portaldevelopment.net/bots/supercellutil" }, { name: "Invite via Top.gg", url: "#" }],
 }, {
     name: "Amplifier",
     description: "Amplifier is a feature rich music bot. Developed by me under Portal Development you can invite it down below.",
-    urls: [{ name: "Invite via Portal Development", url: "#" }, { name: "Invite via Top.gg", url: "#" }],
+    urls: [{ name: "Invite via Portal Development", url: "https://portaldevelopment.net/bots/amplifier" }, { name: "Invite via Top.gg", url: "https://top.gg/bot/886804747984703509" }],
 }]
 
 export default { packages, games, sites, bots, socials, };
