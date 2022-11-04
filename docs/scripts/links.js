@@ -58,6 +58,14 @@ export const games = [{
     name: "2048",
     description: "A simple take on the math game 2048.",
     url: "https://thedummi.github.io/2048"
+}, {
+    name: "Wordle",
+    description: "A clone of the wordle game.",
+    url: "https://thedummi.github.io/wordle"
+}, {
+    name: "Tic Tac Toe",
+    description: "A 2 player tic tac toe game.",
+    url: "https://thedummi.github.io/tictactoe"
 }]
 
 export const bots = [{
