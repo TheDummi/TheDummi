@@ -4,7 +4,7 @@
 
 ---
 
-I'm Dummi, I mostly specify in backend, most of my projects are also Discord related...I'm also employed at [Portal Development](https://discord.gg/GPvsMz4YVb).
+Hi my name is Ray, better known as Dummi, I am mainly a TypeScript and JavaScript developer, I like making Frameworks, API's, SDK's and other kinds of packages.
 
 ## <p align="center">Languages</p>
 
@@ -102,5 +102,6 @@ I'm Dummi, I mostly specify in backend, most of my projects are also Discord rel
 ---
 
 [![Discord Bots](https://top.gg/api/widget/881678826906730547.svg)](https://top.gg/bot/881678826906730547)
-[![Discord Bots](https://top.gg/api/widget/886804747984703509.svg)](https://top.gg/bot/886804747984703509)
-[![Discord Bots](https://top.gg/api/widget/952610511323824168.svg)](https://top.gg/bot/952610511323824168)
+
+<!-- [![Discord Bots](https://top.gg/api/widget/886804747984703509.svg)](https://top.gg/bot/886804747984703509) -->
+<!-- [![Discord Bots](https://top.gg/api/widget/952610511323824168.svg)](https://top.gg/bot/952610511323824168) -->
