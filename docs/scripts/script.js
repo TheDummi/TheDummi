@@ -6,9 +6,7 @@ const pd = document.getElementById('portal');
 const myGames = document.getElementById('myGames');
 
 document.addEventListener('DOMContentLoaded', async (event) => {
-	const fetch = new Octokit({
-		auth: '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',
-	});
+	const fetch = new Octokit({});
 
 	const repositories = (await fetch.request('GET /users/TheDummi/repos', {})).data;
 
