@@ -6,7 +6,7 @@
 
 Hi my name is Ray, better known as Dummi, I am mainly a TypeScript and JavaScript developer, I like making Frameworks, API's, SDK's and other kinds of packages.
 
-## <p align="center">Languages</p>
+## Languages
 
 ---
 
@@ -95,7 +95,7 @@ Hi my name is Ray, better known as Dummi, I am mainly a TypeScript and JavaScrip
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&langs_count=10&theme=dark&layout=compact)
 
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dummi&theme=dark&layout=compact&custom_title=Weekly%20Stats)](https://github-readme-stats.vercel.app/api/wakatime?username=Dummi)
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dummi&theme=dark&layout=compact&custom_title=All%20Time%20Stats)](https://github-readme-stats.vercel.app/api/wakatime?username=Dummi)
 
 ## Projects
 

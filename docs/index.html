@@ -4,96 +4,66 @@
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
 		<title>Dummi</title>
 		<link rel="icon" type="image/x-icon" href="icons/logo.png" />
 		<link rel="stylesheet" href="styles/main.css" />
+
 		<script src="scripts/script.js" defer type="module"></script>
 	</head>
 	<body>
-		<header class="header">
-			<button class="menu-icon-btn" data-menu-icon-btn>
-				<svg
-					viewBox="0 0 24 24"
-					preserveAspectRatio="xMidYMid meet"
-					focusable="false"
-					class="menu-icon"
-				>
-					<g><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path></g>
-				</svg>
-			</button>
-		</header>
-		<div class="container">
-			<aside class="sidebar" data-sidebar>
-				<div class="top-sidebar">
-					<a href="#" class="channel-logo">
-						<img src="./icons/logo.png" />
-					</a>
-					<div class="hidden-sidebar your-channel">Dummi</div>
-				</div>
-				<div class="middle-sidebar">
-					<ul class="sidebar-list" id="sidebar">
-						<li class="sidebar-list-item active" id="welcome">
-							<a href="#" class="sidebar-link">
-								<svg
-									class="sidebar-icon"
-									viewBox="0 0 24 24"
-									preserveAspectRatio="xMidYMid meet"
-									focusable="false"
-								>
-									<g>
-										<path
-											d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"
-										></path>
-									</g>
-								</svg>
-								<div class="hidden-sidebar">Welcome</div>
-							</a>
-						</li>
-					</ul>
-				</div>
-				<div class="bottom-sidebar">
-					<ul class="sidebar-list">
-						<li class="sidebar-list-item">
-							<a href="#" class="sidebar-link">
-								<svg
-									viewBox="0 0 24 24"
-									preserveAspectRatio="xMidYMid meet"
-									focusable="false"
-									class="sidebar-icon"
-								>
-									<g>
-										<path
-											d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-7 12h-2v-2h2v2zm0-4h-2V6h2v4z"
-										></path>
-									</g>
-								</svg>
-								<div class="hidden-sidebar">Send Feedback</div>
-							</a>
-						</li>
-					</ul>
-				</div>
+		<header id="header"></header>
+
+		<div id="page">
+			<aside id="sidebar">
+				<center>
+					<a class="sidebar-link" href="#intro"><h2>About me</h2></a>
+					<a class="sidebar-link" href="#games"><h2>My Games</h2></a>
+					<a class="sidebar-link" href="#repos"><h2>My Repositories</h2></a>
+					<a class="sidebar-link" href="#xernerxStudios"><h2>Xernerx Studios</h2></a>
+					<a class="sidebar-link" href="#portalDevelopment"><h2>Portal Development</h2></a>
+				</center>
 			</aside>
-			<main class="content" id="content">
-				<div class="component">
-					<center>
-						<h1 class="welcome">Dummi</h1>
-						<h3>
-							<p>
-								Welcome to my website!
-								<br />
-								<br />
-								You can find anything related to me here!
-								<br />
-								<br />
-							</p>
-						</h3>
-						<div class="banner">
-							<a href="https://psnprofiles.com/TheDxmmi"
-								><img src="https://card.psnprofiles.com/2/TheDxmmi.png"
-							/></a>
-						</div>
-					</center>
-				</div>
+
+			<main id="content">
+				<center>
+					<div id="intro">
+						<h1>TheDummi</h1>
+						<p class="description">Welcome to my personal website, on here you can find everything about me!</p>
+
+						<p><== use this as your guide!</p>
+
+						<p class="description">
+							<img
+								src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDummi&langs_count=10&theme=dark&layout=compact" />
+							<img
+								src="https://github-readme-stats.vercel.app/api?username=TheDummi&show_icons=true&theme=dark&layout=compact" />
+						</p>
+
+						<p class="stats">
+							<img
+								src="https://github-readme-stats.vercel.app/api/wakatime?username=Dummi&theme=dark&layout=compact&custom_title=Coding%20Stats" />
+						</p>
+					</div>
+
+					<h1 id="games">My Games</h1>
+					<p class="description">All of the games I have made over my coding career.</p>
+					<div class="container" id="myGames">Loading...</div>
+
+					<h1 id="repos">My Repositories</h1>
+					<p class="description">Below you can see all of my personal repositories.</p>
+					<div class="container" id="myRepositories">Loading...</div>
+
+					<h1 id="xernerxStudios">Xernerx Studios</h1>
+					<p class="description">Xernerx Studios is a studios specified in the development around Discord.</p>
+					<div class="container" id="xernerx">Loading...</div>
+
+					<h1 id="portalDevelopment">Portal Development</h1>
+					<p class="description">
+						Portal Development is a development studios specified in Discord bots that are ordinary in it's use.
+					</p>
+					<div id="portal" class="container">Loading...</div>
+				</center>
 			</main>
 		</div>
 	</body>
